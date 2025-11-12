@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow only .tf files
+!*.tf
+
+# Also allow README and .gitignore
+!README.md
+!.gitignore
